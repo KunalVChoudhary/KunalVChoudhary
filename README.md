@@ -21,14 +21,14 @@
 
 ### 🚀 Featured Projects
 
+- [**QuillSync**](https://github.com/KunalVChoudhary/QuillSync)  
+  A real-time collaborative document editor with secure authentication, live multi-user editing, and role-based access control.
+
 - [**EasyBuy**](https://github.com/KunalVChoudhary/EasyBuy)  
   A full‑featured MERN‑stack e‑commerce application with user auth, product catalog, cart, and order management.
 
-- [**Reddit‑On**](https://github.com/KunalVChoudhary/Reddit-On)  
-  Browse multiple subreddits side‑by‑side in customizable lanes — perfect for power users.
-
-- [**Todo‑List**](https://github.com/KunalVChoudhary/Todo-List)  
-  A fully responsive task manager to practice modern frontend techniques; includes filters, drag‑and‑drop, and dark/light mode.
+- [**DoChat**](https://github.com/KunalVChoudhary/DoChat)  
+  A real-time MERN stack chat application with instant messaging, file sharing, unread message tracking, user profiles, and a clean, responsive UI.
 
 ---
 
