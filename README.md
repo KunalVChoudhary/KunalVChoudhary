@@ -35,7 +35,7 @@
 ### 📊 GitHub ✨ Stats
 
 <p align="center">
-  <img alt="Kunal’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KunalVChoudhary&show_icons=true&theme=tokyonight" />
+  <img alt="Kunal’s GitHub Stats" src="https://nirzak-streak-stats.vercel.app/?user=KunalVChoudhary&theme=dark&hide_border=false" />
 </p>
 
 ---
